@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **WEBSITE DEVELOPMENT**
 
-- 🌱 I’m currently learning **REACT JS**
+- 🌱 I’m currently learning **Node JS**
 
 - 🤝 I’m looking for help with **DYNAMIC WEBSITE**
 
