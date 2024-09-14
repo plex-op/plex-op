@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Node JS**
 
-- 🤝 I’m looking for help with **DYNAMIC WEBSITE**
+- 🤝 Looking for help with a  **DYNAMIC WEBSITE** I'm here to assist! Reach out to me!
 
 - 👨‍💻 All of my projects are available at [https://myportfolio-beta-taupe.vercel.app/](https://myportfolio-beta-taupe.vercel.app/)
 
